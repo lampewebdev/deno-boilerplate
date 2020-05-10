@@ -24,8 +24,8 @@ In `src/log.ts` you can find a simple logger that is extendable.
 
 ## ToDo
 
-- [] Overall extend the project
-- [] Think about a better developer experience
-- [] Think about a better folder structure
-- [] Create a companion CLI tool
-- [] Probably more...
+- Overall extend the project
+- Think about a better developer experience
+- Think about a better folder structure
+- Create a companion CLI tool
+- Probably more...
