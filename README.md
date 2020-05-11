@@ -8,15 +8,15 @@ It does not much. The only goal is to not have to setup and created a basic setu
 
 ## basic usage
 
-This boilerplate uses "make" to run the Deno commands.
+This boilerplate uses `make` to run the Deno commands.
 It is usually already installed on your Unix OS.
 
 You can use the following commands:
-- run:      executes the `index.ts`
-- test:     runs the tests
-- format:   formats all your files
-- debug:    runs the debugger starting in the `index.ts`
-- bundle:   bundles your project into a single file in `build/index`
+- `make run`:      executes the `index.ts`
+- `make test`:     runs the tests
+- `make format`:   formats all your files
+- `make debug`:    runs the debugger starting in the `index.ts`
+- `make bundle`:   bundles your project into a single file in `build/index`
 
 ## Simple logger pre-configured
 
